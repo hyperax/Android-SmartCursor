@@ -38,7 +38,7 @@ uploadArchives {
             pom.project {
                 name 'SmartCursor'
                 description 'Implementation of SQLite cursor wrapper with some helpful features'
-                url 'https://github.com/mike-stetsenko/smartcursor'
+                url 'https://github.com/hyperax/android-smartcursor'
                 groupId 'ru.softbalance.database'
                 artifactId 'SmartCursor'
                 packaging 'aar'
